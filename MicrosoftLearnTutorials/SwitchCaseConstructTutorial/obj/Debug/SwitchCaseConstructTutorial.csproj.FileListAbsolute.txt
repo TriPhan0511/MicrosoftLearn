@@ -1,0 +1,8 @@
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\bin\Debug\SwitchCaseConstructTutorial.exe.config
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\bin\Debug\SwitchCaseConstructTutorial.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\bin\Debug\SwitchCaseConstructTutorial.pdb
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\obj\Debug\SwitchCaseConstructTutorial.csproj.AssemblyReference.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\obj\Debug\SwitchCaseConstructTutorial.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\obj\Debug\SwitchCaseConstructTutorial.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\obj\Debug\SwitchCaseConstructTutorial.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\SwitchCaseConstructTutorial\obj\Debug\SwitchCaseConstructTutorial.pdb

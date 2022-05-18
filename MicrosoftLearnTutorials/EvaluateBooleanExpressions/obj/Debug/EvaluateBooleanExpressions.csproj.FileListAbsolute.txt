@@ -1,0 +1,8 @@
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\bin\Debug\EvaluateBooleanExpressions.exe.config
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\bin\Debug\EvaluateBooleanExpressions.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\bin\Debug\EvaluateBooleanExpressions.pdb
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\obj\Debug\EvaluateBooleanExpressions.csproj.AssemblyReference.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\obj\Debug\EvaluateBooleanExpressions.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\obj\Debug\EvaluateBooleanExpressions.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\obj\Debug\EvaluateBooleanExpressions.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EvaluateBooleanExpressions\obj\Debug\EvaluateBooleanExpressions.pdb

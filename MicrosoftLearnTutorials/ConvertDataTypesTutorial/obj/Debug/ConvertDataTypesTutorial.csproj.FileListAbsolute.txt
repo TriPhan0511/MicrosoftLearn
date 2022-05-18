@@ -1,0 +1,8 @@
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\bin\Debug\ConvertDataTypesTutorial.exe.config
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\bin\Debug\ConvertDataTypesTutorial.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\bin\Debug\ConvertDataTypesTutorial.pdb
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\obj\Debug\ConvertDataTypesTutorial.csproj.AssemblyReference.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\obj\Debug\ConvertDataTypesTutorial.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\obj\Debug\ConvertDataTypesTutorial.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\obj\Debug\ConvertDataTypesTutorial.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ConvertDataTypesTutorial\obj\Debug\ConvertDataTypesTutorial.pdb

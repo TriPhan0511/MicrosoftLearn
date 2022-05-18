@@ -1,0 +1,8 @@
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\bin\Debug\EFUsingModelFist.exe.config
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\bin\Debug\EFUsingModelFist.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\bin\Debug\EFUsingModelFist.pdb
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\obj\Debug\EFUsingModelFist.csproj.AssemblyReference.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\obj\Debug\EFUsingModelFist.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\obj\Debug\EFUsingModelFist.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\obj\Debug\EFUsingModelFist.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\EFUsingModelFist\obj\Debug\EFUsingModelFist.pdb

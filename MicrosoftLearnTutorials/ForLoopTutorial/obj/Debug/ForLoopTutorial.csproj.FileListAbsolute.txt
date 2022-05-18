@@ -1,0 +1,8 @@
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\bin\Debug\ForLoopTutorial.exe.config
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\bin\Debug\ForLoopTutorial.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\bin\Debug\ForLoopTutorial.pdb
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\obj\Debug\ForLoopTutorial.csproj.AssemblyReference.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\obj\Debug\ForLoopTutorial.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\obj\Debug\ForLoopTutorial.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\obj\Debug\ForLoopTutorial.exe
+D:\Studying\DotNet\MicrosoftLearn\MicrosoftLearnTutorials\ForLoopTutorial\obj\Debug\ForLoopTutorial.pdb

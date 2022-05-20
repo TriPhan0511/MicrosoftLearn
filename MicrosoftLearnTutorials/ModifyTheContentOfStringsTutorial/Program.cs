@@ -16,6 +16,12 @@ namespace ModifyTheContentOfStringsTutorial
                 In this challenge, you'll work with a string that contains fragment of HTML. You'll extract
                 data from the HTML fragment, replace some of its content, and remove other parts of its
                 content to achieve the desired output.
+
+                const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+                // Output:
+                // Quantity: 5000
+                // Output: <h2>Widgets &reg;</h2><span>5000</span>
+                
              */
 
             const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
@@ -24,7 +30,35 @@ namespace ModifyTheContentOfStringsTutorial
             string output = "";
 
             // Your work here
+            int openingPosition = 0;
+            int closingPosition = 0;
 
+            // Extract the quantity
+            const string spanOpeningTag = "<span>";
+            const string spanClosingTag = "</span>";
+            openingPosition = input.IndexOf(spanOpeningTag);
+            closingPosition = input.IndexOf(spanClosingTag);
+            if ((openingPosition != -1) && (closingPosition != -1))
+            {
+                openingPosition += spanOpeningTag.Length;
+                quantity = input.Substring(openingPosition, closingPosition - openingPosition);
+            }
+
+            // Remove the div tags
+            const string divOpeningTag = "<div>";
+            const string divClosingTag = "</div>";
+            openingPosition = input.IndexOf(divOpeningTag);
+            closingPosition = input.IndexOf(divClosingTag);
+            if ((openingPosition != -1) && (closingPosition != -1))
+            {
+                openingPosition += divOpeningTag.Length;
+                output = input.Substring(openingPosition, closingPosition - openingPosition);
+            }
+
+            // Replace the trademark symbol with the registered trademark symbol
+            output = output.Replace("&trade;", "&reg;");
+
+            // Print out
             Console.WriteLine(quantity);
             Console.WriteLine(output);
 

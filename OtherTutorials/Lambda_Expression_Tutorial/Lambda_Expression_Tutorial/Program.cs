@@ -30,6 +30,20 @@ namespace Lambda_Expression_Tutorial
                 statement block on the other side.
                 
              */
+
+            //// A lambda expression that has one parameter and returns a value
+            //// can be converted to a Func<T,TResult> delegate.
+            //// In the following example, the lambda expression x => x * x, which specifies
+            //// a parameter that's named x and returns the value of x squared, is assigned
+            //// to a variable of a delegate type:
+            //Func<int, int> square = x => x * x;
+            //Console.WriteLine(square(5)); // output: 25
+
+            // Another example:
+            int[] numbers = { 2, 3, 4, 5 };
+            var squaredNumbers = numbers.Select(x => x * x);
+            Console.WriteLine(String.Join(" ", squaredNumbers)); // Output: 4 9 16 25
+
         }
 
         ////-----------------------------------------------------------------------------------
